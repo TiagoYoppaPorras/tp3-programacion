@@ -1,1 +1,1 @@
-modificamos archivo2 con conflicto
+modificamos archivo 2 con conflicto

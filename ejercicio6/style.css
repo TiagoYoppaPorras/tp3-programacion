@@ -1,0 +1,10 @@
+body {
+      font-family: Arial, sans-serif;
+      padding: 25px;
+    }
+
+
+    #mensaje {
+      margin-top: 25px;
+      font-weight: bold;
+    }
